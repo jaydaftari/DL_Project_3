@@ -46,9 +46,9 @@ Each section includes code, explanatory text, visualizations, and quantitative r
 | Dataset  | ResNet‑34 Top‑1 (%) | ResNet‑34 Top‑5 (%) | DenseNet‑121 Top‑1 (%) | DenseNet‑121 Top‑5 (%) |
 |----------|---------------------|---------------------|------------------------|------------------------|
 | Original | 76.0                | 94.2                | 74.8                   | 93.6                   |
-| FGSM     | 6.0                 | 16.6                | 48.8                   | 75.4                   |
-| PGD      | 0.2                 | 1.4                 | 54.6                   | 84.4                   |
-| Patch    | 4.6                 | 38.0                | 67.2                   | 89.6                   |
+| FGSM     | 3.4                 | 21.2                | 46.0                   | 76.2                   |
+| PGD      | 0.0                 | 4.4                 | 54.8                   | 86.4                   |
+| Patch    | 4.0                 | 42.0                | 68.0                   | 91.2                   |
 
 
 
