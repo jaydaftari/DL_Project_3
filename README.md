@@ -1,5 +1,5 @@
 # ECE-GY 7123 Deep Learning Project 3 - Mean Square Terror
-by Jay Daftari (jd5829@nyu.edu), Akshat Mishra (am15111@nyu.edu) and ,Siddhant Mohan (sm12766@nyu.edu).
+by Jay Daftari (jd5829@nyu.edu), Akshat Mishra (am15111@nyu.edu) and Siddhant Mohan (sm12766@nyu.edu).
 
 A hands‑on exploration of adversarial attacks against a pre‑trained ResNet‑34 classifier on ImageNet‑1K. We implement and evaluate Fast Gradient Sign Method (FGSM), Projected Gradient Descent (PGD) and localized patch-based attack to demonstrate how small, worst‑case perturbations can dramatically degrade modern deep networks. We also check the transferability of these methods by evaluating the generated adversarial data on DenseNet-121.
 
