@@ -7,7 +7,7 @@ A hands‑on exploration of adversarial attacks against a pre‑trained ResNet�
 
 ## Overview
 
-This repository contains `dl-proj3.ipynb`, a Jupyter notebook implementing:
+This repository contains `dl-project3.ipynb`, a Jupyter notebook implementing:
 
 1. **Clean baseline evaluation** of ResNet‑34 on a test subset of ImageNet‑1K.  
 2. **Fast Gradient Sign Method (FGSM)** for an $L_\infty$ single‑step attack.  
