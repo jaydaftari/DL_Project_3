@@ -32,7 +32,7 @@ Each section includes code, explanatory text, visualizations, and quantitative r
 ## Installation
 
 1. Clone this repository
-2. Open dl-hw3.ipynb in your browser.
+2. Open dl-project3.ipynb in your browser.
 3. Download the  ImageNet-1K dataset and set the path in code accordingly.
 4. Execute cells top‑to‑bottom to reproduce baseline and adversarial attacks.
 
